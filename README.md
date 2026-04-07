@@ -55,19 +55,15 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SahilS19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SahilS19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilS19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
----
-
 ## 🚀 What I Do:
-- Craft responsive, user-friendly web interfaces using **HTML**, **Tailwind CSS**, and **JavaScript**  
-- Build dynamic, data-driven applications with **Python** and **SQL**  
-- Analyze and visualize insights using **Power BI** and **Excel**
-- Learning cloud technologies like **AWS** and **Google Cloud** to store large amounts of data using CI/CD pipelines to create instances like AWS S3, AWS Lambda, etc.
-- Blend creativity, data, and logic to deliver impactful digital experiences.
+- 📊 Analyze complex datasets to extract **actionable business insights**
+- 🗄 Write optimized **SQL queries** for data extraction, cleaning, and transformation
+- 📈 Build **interactive dashboards** using **Power BI & Excel** for data-driven decision making
+- 🐍 Perform data analysis and automation using **Python (Pandas, NumPy, Matplotlib)**
+- 🧹 Clean, preprocess, and validate raw data to ensure **accuracy and consistency**
+- 📉 Identify trends, patterns, and KPIs to solve **real-world business problems**
+- ☁️ Work with **cloud tools (AWS basics)** for scalable data storage and processing
+- 🔍 Apply analytical thinking to convert data into **meaningful stories & insights**
   
 ---
 

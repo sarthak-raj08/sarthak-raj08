@@ -1,6 +1,6 @@
 # 🌟 Portfolio Banner
 
-![Banner](cloud-banner.png)
+![Banner](github-banner.png)
 
 ---
 

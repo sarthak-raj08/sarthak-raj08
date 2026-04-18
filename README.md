@@ -47,11 +47,11 @@
 ## 🎓 Education  
 
 - **Bachelor of Technology (B.Tech)** - *Information Technology*  
-  📍 *JIS College of Engineering, Kalyani*  
-  📆 *September, 2021 - June,2025*  
+  📍 *JIS College of Engineering, Kalyani, West Bengal*  
+  📆 *September, 2021 - June, 2025*  
 
 - **Data Analyst Certification** with *E&ICT - IIT Guwahati Certification - Besant Technologies, Bangalore*  
-  📊 Focus on Power BI, Excel, SQL, Python, AWS, Tableau
+  📊 Focus on Power BI, Excel, SQL, Python, AWS
 
 ---
 

@@ -1,6 +1,6 @@
 # 🌟 Portfolio Banner
 
-![Banner](github-banner.png)
+![Banner](da-banner.png)
 
 ---
 

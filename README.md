@@ -4,7 +4,10 @@
 
 ---
 
-<img width="1440" height="324" alt="image" src="https://github.com/user-attachments/assets/b2dd297c-ad6f-4d0b-b829-a3e2937ba2d0"/>
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hi, I'm <span style="color:#0A66C2;"><b>SARTHAK RAJ</b></span>
+</h1>
 
 ---
 

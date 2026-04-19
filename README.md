@@ -4,10 +4,7 @@
 
 ---
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Hi, I'm <span style="color:#00008B;"><b>SARTHAK RAJ</b></span>
-</h1>
+👋 Hi, I'm **SARTHAK RAJ**
 
 ---
 

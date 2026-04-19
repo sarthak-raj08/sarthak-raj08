@@ -5,7 +5,7 @@
 ---
 
 <h2 align="left">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi, I'm <font color="#003366">SARTHAK RAJ</font>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" height="32"> Hi, I'm <font color="#031AA1">SARTHAK RAJ</font>
 </h2>
 
 ---

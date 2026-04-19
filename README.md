@@ -4,9 +4,9 @@
 
 ---
 
-<h2 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" height="32"> Hi, I'm <font color="#031AA1">SARTHAK RAJ</font>
-</h2>
+<h1 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" height="32"> Hi, I'm <font color="#A11bB03">SARTHAK RAJ</font>
+</h1>
 
 ---
 

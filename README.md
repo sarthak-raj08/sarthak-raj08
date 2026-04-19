@@ -4,7 +4,8 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> Hi, I'm Sarthak Raj
+<img width="1440" height="324" alt="image" src="https://github.com/user-attachments/assets/f2f5b9ab-2fe0-4467-9211-d040fa022302" />
+
 
 ---
 

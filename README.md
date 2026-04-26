@@ -1,6 +1,6 @@
 # 🌟 Portfolio Banner
 
-![Banner](sr-data-analyst.png)
+![Banner](data-analyst-08.png)
 
 ---
 

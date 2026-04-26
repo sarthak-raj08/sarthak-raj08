@@ -11,7 +11,7 @@
 ---
 
 # 💫 About Me:
-<img align="right" alt="Data Analyst Working" width="300" src="data-analyst.jpg" />
+<img align="right" alt="Data Analyst Working" width="300" src="pr-image.jpg" />
 
 - 👨‍💻 **Data Analyst** seeking new opportunities.
 - 🤝 I’m looking to collaborate on **Data Analyst projects**
